@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TOoT0/RF2a1URfjlAlLmYKHY/nXgdWe61Sbs5RF2GeI=",
+  "Source": "CsvReader",
+  "BasePath": "_content/CsvReader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
